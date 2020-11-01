@@ -10,3 +10,7 @@
 
 ## pull requestについて
 のちほど
+
+## pull
+リモートの方が更新された時にする操作
+` git pull origin {自分のブランチ名}`
